@@ -2,7 +2,8 @@
 
 Backend-focused developer building Discord bots, async Python services, and small web products.
 
-I enjoy turning operationally messy workflows into focused tools: community automation, game-server management, and reliable self-hosted services.
+I enjoy turning operationally messy workflows into focused tools: community automation,
+game-server management, and reliable self-hosted services.
 
 ## Featured projects
 
@@ -17,7 +18,8 @@ A modular, self-hostable Discord bot platform written in Python.
 
 ### [panelkit-bot](https://github.com/adityatheog/panelkit-bot)
 
-A Discord.js v14 interface for Pterodactyl Panel. Users can provision, monitor, and control their own game servers without opening the panel.
+A Discord.js v14 interface for Pterodactyl Panel. Users can provision, monitor, and
+control their own game servers without opening the panel.
 
 - Shared command registry for prefix and slash commands
 - Account-bound server access and sub-user permissions
@@ -31,7 +33,7 @@ Discord automation and utility services for moderation, scheduled tasks, and qua
 
 A React and Express messaging prototype with authentication, user discovery, conversation history, and responsive chat UI.
 
-### [students](https://github.com/adityatheog/students) · [intro](https://github.com/adityatheog/intro)
+### students · [intro](https://github.com/adityatheog/intro)
 
 Static web projects for student-facing content and personal presentation.
 
@@ -49,4 +51,5 @@ Static web projects for student-facing content and personal presentation.
 - **Email:** [adityasutar@proton.me](mailto:adityasutar@proton.me)
 - **GitHub:** [github.com/adityatheog](https://github.com/adityatheog/)
 
-> For security reports, please use the repository's security policy or open a private GitHub security advisory rather than including sensitive details in a public issue.
+> For security reports, please use the repository's security policy or open a private GitHub security advisory
+> rather than including sensitive details in a public issue.
