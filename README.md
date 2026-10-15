@@ -1,9 +1,15 @@
 # Aditya Sutar
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=3B82F6&center=false&vCenter=true&width=600&lines=Backend-focused+developer.;Building+Discord+bots+and+services.;Turning+messy+workflows+into+tools.)](https://git.io/typing-svg)
+
 Backend-focused developer building Discord bots, async Python services, and small web products.
 
 I enjoy turning operationally messy workflows into focused tools: community automation,
 game-server management, and reliable self-hosted services.
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=adityatheog&show_icons=true&theme=transparent&hide_border=true&title_color=3B82F6&icon_color=3B82F6" alt="Aditya's GitHub Stats" />
+</p>
 
 ## Featured projects
 
@@ -39,12 +45,17 @@ Static web projects for student-facing content and personal presentation.
 
 ## Stack
 
-| Area | Tools |
-| --- | --- |
-| Python | `discord.py` · `FastAPI` · `aiosqlite` · `pytest` · `mypy` |
-| JavaScript / Node.js | `Discord.js` · `Express` · `React` |
-| Data | SQLite · JSON-backed prototypes |
-| Tooling | `black` · `flake8` · `GitHub Actions` · Docker |
+**Python**
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![pytest](https://img.shields.io/badge/pytest-%23ffffff.svg?style=for-the-badge&logo=pytest&logoColor=2f9fe3)
+
+**JavaScript / Node.js**
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+**Data**
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
+**Tooling**
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ## Contact
 
